@@ -35,5 +35,35 @@ call plug#end()
 Then just set your color scheme to `elementary` either
 via command or in your vimrc.
 
+## Examples
+
+Go (and matching-paren highlighting)
+
+![Go example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.go.png)
+
+Ruby (without a "proper" ruby syntax plugin)
+
+![Ruby example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.rb.png)
+
+C++ (with PMenus)
+
+![C++ example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.c++.png)
+
+Markdown
+
+![Markdown example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.md.png)
+
+HTML (with selection)
+
+![HTML example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.html.png)
+
+CSS
+
+![CSS example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.css.png)
+
+All of the above (to demonstrate splits)
+
+![All](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.all.png)
+
 ## License: MIT
 
