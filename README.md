@@ -37,6 +37,9 @@ via command or in your vimrc.
 
 ## Examples
 
+**These are a bit out of date and should be updated, but I can't be bothered right now :(**
+It's just minor details though, for example visually selected text is easier to read and PMenus look nicer too.
+
 Go (and matching-paren highlighting)
 
 ![Go example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.go.png)
