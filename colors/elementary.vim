@@ -91,7 +91,7 @@ hi   cssPseudoClassId   guifg=#2aa7e7   guibg=NONE   gui=NONE          ctermfg=d
 hi   Delimiter      guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
 hi   Operator       guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
 hi   ColorColumn    guibg=#303030   gui=NONE        ctermbg=gray       cterm=NONE
-hi   Folded         guifg=#5d5d5d   guibg=#303030   gui=NONE           ctermfg=gray       ctermbg=darkgray   cterm=NONE
+hi   Folded         guifg=#303030   gui=NONE        ctermfg=darkgray   cterm=NONE
 hi   Pmenu          guifg=#f2f2f2   guibg=#303030   gui=NONE           ctermfg=white      ctermbg=darkgray   cterm=NONE
 hi   SignColumn     guibg=#101010   gui=NONE        ctermbg=black      cterm=NONE
 hi   Title          guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
