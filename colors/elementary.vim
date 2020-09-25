@@ -14,12 +14,12 @@ hi   Normal     guifg=#f2f2f2   guibg=#101010   gui=NONE   ctermbg=black   cterm
 hi   NormalNC   guifg=#5d5d5d   ctermfg=gray
 
 "red
-hi   Identifier               guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
+hi   Identifier              guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
 hi   cssImportant            guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
 hi   Statement               guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
-hi   Define                   guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
-hi   cDefine                  guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
-hi   DiffDelete               guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
+hi   Define                  guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
+hi   cDefine                 guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
+hi   DiffDelete              guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
 hi   GitGutterDelete         guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
 hi   GitGutterChangeDelete   guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
 hi   Error                   guifg=#e1321a   guibg=NONE   gui=NONE        ctermfg=darkred   ctermbg=NONE   cterm=NONE
@@ -30,15 +30,15 @@ hi   xmlTagName              guifg=#e1321a   guibg=NONE   gui=NONE        ctermf
 "green
 hi   String              guifg=#6ab017   guibg=NONE      gui=NONE   ctermfg=darkgreen   cterm=NONE
 hi   PMenuSel            guibg=#6ab017   guifg=#101010   gui=NONE   ctermfg=black       ctermbg=darkgreen   cterm=NONE
-hi   DiffAdd              guifg=#6ab017   guibg=NONE      gui=NONE   ctermfg=darkgreen   cterm=NONE
+hi   DiffAdd             guifg=#6ab017   guibg=NONE      gui=NONE   ctermfg=darkgreen   cterm=NONE
 hi   GitGutterAdd        guifg=#6ab017   guibg=NONE      gui=NONE   ctermfg=darkgreen   cterm=NONE
 hi   cssIncludeKeyword   guifg=#6ab017   guibg=NONE      gui=NONE   ctermfg=darkgreen   cterm=NONE
 
 "yellow
 hi   Type           guifg=#ffc005   guibg=NONE      gui=NONE      ctermfg=yellow       ctermbg=NONE   cterm=NONE
 hi   Constant       guifg=#ffc005   guibg=NONE      gui=NONE      ctermfg=yellow       ctermbg=NONE   cterm=NONE
-hi   IncSearch      guifg=#101010  guibg=#ffc005    gui=NONE      ctermfg=black        ctermbg=yellow cterm=NONE
-hi   Todo           guifg=#101010  guibg=#ffc005    gui=NONE      ctermfg=black        ctermbg=yellow cterm=NONE
+hi   IncSearch      guifg=#101010   guibg=#ffc005   gui=NONE      ctermfg=black        ctermbg=yellow cterm=NONE
+hi   Todo           guifg=#101010   guibg=#ffc005   gui=NONE      ctermfg=black        ctermbg=yellow cterm=NONE
 hi   Number         guifg=#ffc005   guibg=NONE      gui=NONE      ctermfg=yellow       ctermbg=NONE   cterm=NONE
 hi   CursorLineNR   guifg=#ffc005   guibg=NONE      gui=NONE      ctermfg=yellow       ctermbg=NONE   cterm=NONE
 hi   WarningMsg     guifg=#ffc005   guibg=NONE      gui=NONE      ctermfg=yellow       ctermbg=NONE   cterm=NONE
@@ -67,13 +67,13 @@ hi   Repeat            guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmag
 hi   Keyword           guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   Exception         guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   Label             guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
-hi   DiffText           guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
+hi   DiffText          guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   htmlItalic        guifg=#a020f0   guibg=NONE   gui=italic   ctermfg=darkmagenta   cterm=italic
 hi   cssClassName      guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   cssClassNameDot   guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
-hi   cssIdentifier      guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
+hi   cssIdentifier     guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   cssTagName        guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
-hi   DiffChange         guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
+hi   DiffChange        guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 hi   GitGutterChange   guifg=#a020f0   guibg=NONE   gui=NONE     ctermfg=darkmagenta   cterm=NONE
 
 "cyan
@@ -91,7 +91,7 @@ hi   cssPseudoClassId   guifg=#2aa7e7   guibg=NONE   gui=NONE          ctermfg=d
 hi   Delimiter      guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
 hi   Operator       guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
 hi   ColorColumn    guibg=#303030   gui=NONE        ctermbg=gray       cterm=NONE
-hi   Folded         guifg=#303030   gui=NONE        ctermfg=darkgray   cterm=NONE
+hi   Folded         guifg=#303030   guibg=#101010   gui=NONE           ctermfg=darkgray   cterm=NONE
 hi   Pmenu          guifg=#f2f2f2   guibg=#303030   gui=NONE           ctermfg=white      ctermbg=darkgray   cterm=NONE
 hi   SignColumn     guibg=#101010   gui=NONE        ctermbg=black      cterm=NONE
 hi   Title          guifg=#f2f2f2   gui=NONE        ctermfg=white      cterm=NONE
