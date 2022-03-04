@@ -37,9 +37,6 @@ via command or in your vimrc.
 
 ## Examples
 
-**These are a bit out of date and should be updated, but I can't be bothered right now :(**
-It's just minor details though, for example visually selected text is easier to read and PMenus look nicer too.
-
 Go (and matching-paren highlighting)
 
 ![Go example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.go.png)
@@ -56,11 +53,11 @@ Markdown
 
 ![Markdown example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.md.png)
 
-HTML (with selection)
+\><> (esolang) (with selection)
 
-![HTML example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.html.png)
+![Fish example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.><>.png)
 
-CSS
+CSS (with LSP error)
 
 ![CSS example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.css.png)
 
