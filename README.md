@@ -55,7 +55,7 @@ Markdown
 
 \><> (esolang) (with selection)
 
-![Fish example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.><>.png)
+![Fish example](https://raw.github.com/ethantrithon/elementary.vim/master/screenshots/sample.eso.png)
 
 CSS (with LSP error)
 
